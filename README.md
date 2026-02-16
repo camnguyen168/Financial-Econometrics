@@ -3,7 +3,7 @@
 In Merge and Acquisition, Narcissism can be understood as the overconfidence of the executive, when they don’t make rational M&A decisions. Empirical research shows that most M&A deals deliver only small returns or negative long-run post-acquisition performance for acquirers. Prior research suggests that such characteristics significantly influence CEOs’ strategic decision-making and, consequently, organizational outcomes. 
 This study will try to answer whether narcissistic executives more likely to pursue aggressive M&A activities, prioritizing size and status over operational efficiency.
 
-For this analysis we use different dataset joining with each other to create a final panel data set and develop regression model. Those dataset includes:
+We constructed a final panel dataset for regression analysis by joining the following sources:
 
   -Interview dataset: from this course Financial Econometrics
 
