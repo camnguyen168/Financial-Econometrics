@@ -1,3 +1,5 @@
+# The Ego Empire: CEO Narcissism and Corporate Expansion
+
 In Merge and Acquisition, Narcissism can be understood as the overconfidence of the executive, when they don’t make rational M&A decisions. Empirical research shows that most M&A deals deliver only small returns or negative long-run post-acquisition performance for acquirers. Prior research suggests that such characteristics significantly influence CEOs’ strategic decision-making and, consequently, organizational outcomes. 
 This study will try to answer whether narcissistic executives more likely to pursue aggressive M&A activities and asset growth, prioritizing size and status over operational efficiency.
 
@@ -13,7 +15,7 @@ The narcissism is calculated by using the word count in the CEO interview:
 
   $$SRR_ = \frac{\text{First-Person Singular}}{\text{First-Person Singular} + \text{First-Person Plural}}$$
 
-Methodology:
+# Methodology:
 a firm-year dataset combining (i) narcissism proxies (normalized SRR), (ii) M&A “empire building” outcomes, (iii) firm financial controls, and (iv) CEO characteristics for regression analysis.
 
 - TobinQ : growth opportunity, high growth opportunities firms are more potential to expand their size and do more deals.
