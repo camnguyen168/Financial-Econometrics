@@ -15,7 +15,7 @@ The narcissism is calculated by using the word count in the CEO interview:
 
   $$SRR_ = \frac{\text{First-Person Singular}}{\text{First-Person Singular} + \text{First-Person Plural}}$$
 
-# Methodology:
+## Methodology:
 a firm-year dataset combining (i) narcissism proxies (normalized SRR), (ii) M&A “empire building” outcomes, (iii) firm financial controls, and (iv) CEO characteristics for regression analysis.
 
 - TobinQ : growth opportunity, high growth opportunities firms are more potential to expand their size and do more deals.
@@ -33,7 +33,7 @@ We build different model: Simple model, model with controls, models with control
 Industry * SRR : interaction term
 Fixed effect : firm, sector, year
 
-# Result:
+## Result:
 
 
 - According to our model transaction next year, we find a positive relationship between the level of CEO narcisism (SRR normalized mean and median) and the transaction size (significant at level 5%). The significance hold under 5% in single regression, muliple regression and also when putting fix effect to control for time invariant variables or when remove 0.1% outlier in the data
