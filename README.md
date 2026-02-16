@@ -56,6 +56,9 @@ The model demonstrates that traditional governance and demographic variables hav
 2. Compensation Structures: The magnitude of stock awards and option awards does not appear to incentivize larger deal tickets.
 3. Capital Structure: Current leverage does not act as a statistically significant constraint on the following year's acquisition size.
 
+Further Research:
+just in short of time, this study still maybe has some limitation on merging the ceo data set, at this point it will need more further check to make sure that the data is merged correctly and consistently.
+
 
 
 
