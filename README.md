@@ -30,10 +30,10 @@ a firm-year dataset combining (i) narcissism proxies (normalized SRR), (ii) M&A 
 - log_option_awards : compensation package of CEO
 
 We build different model: Simple model, model with controls, models with controls and fixed effect
-Industry * SRR interaction term
+Industry * SRR : interaction term
 Fixed effect : firm, sector, year
 
-Result:
+# Result:
 
 
 - According to our model transaction next year, we find a positive relationship between the level of CEO narcisism (SRR normalized mean and median) and the transaction size (significant at level 5%). The significance hold under 5% in single regression, muliple regression and also when putting fix effect to control for time invariant variables or when remove 0.1% outlier in the data
