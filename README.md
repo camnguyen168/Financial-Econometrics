@@ -29,7 +29,7 @@ a panel dataset having narcissism proxies (normalized SRR), M&A “empire buildi
 - log_stock_awards:  compensation package of CEO
 - log_option_awards : compensation package of CEO
 
-We build different model: Simple model, model with controls, models with controls and fixed effect
+We build different regression model: Simple model, model with controls, models with controls and fixed effect
 Industry * SRR : interaction term
 Fixed effect : firm, sector, year
 
