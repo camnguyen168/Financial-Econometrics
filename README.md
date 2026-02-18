@@ -9,7 +9,7 @@ We constructed a final panel dataset for regression analysis by joining the foll
 
   -M&A outcomes: M&A transaction data ( Capital IQ - WRDS ), aggregated to firm–year.
 
-  -Financial & controls: Firm fundamentals ( Compustat - WRDS ), executive controls ( ExecuComp  - WRDS ).
+  -Financial & Executive controls: Firm fundamentals ( Compustat - WRDS ), executive controls ( ExecuComp  - WRDS ).
 
 The narcissism is calculated by using the word count in the CEO interview:
 
