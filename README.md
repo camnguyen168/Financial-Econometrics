@@ -11,7 +11,7 @@ We constructed a final panel dataset for regression analysis by joining the foll
 
   -Financial & Executive controls: Firm fundamentals ( Compustat - WRDS ), executive controls ( ExecuComp  - WRDS ).
 
-The narcissism is calculated by using the word count in the CEO interview:
+The narcissism is calculated by using the word count in the CEO interview as proxy:
 
   $$SRR_ = \frac{\text{First-Person Singular}}{\text{First-Person Singular} + \text{First-Person Plural}}$$
 
