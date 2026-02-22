@@ -33,6 +33,17 @@ We build different regression model: Simple model, model with controls, models w
 Industry * SRR : interaction term
 Fixed effect : firm, sector, year
 
+The full model is estimated using the following specification:
+
+<img width="650" height="77" alt="image" src="https://github.com/user-attachments/assets/8541123b-afc2-40b7-a4fc-ebf7447e5785" />
+
+where
+- $i$ denotes the firm/individual.
+- $t$ denotes the fiscal year.
+- $\alpha_i$ and $\delta_t$ represent entity and time fixed effects respectively.
+- $Controls_{it,k}$ represents the k-th control variable for firm/individual i at time t.
+- $\epsilon_{it}$ is the error term.
+
 ## Result:
 
 
