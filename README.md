@@ -5,7 +5,7 @@ This study will try to answer whether narcissistic executives more likely to pur
 
 We constructed a final panel dataset for regression analysis by joining the following sources:
 
-  -Interview dataset: from this course Financial Econometrics
+  -Interview dataset: from this course Financial Econometrics, which was crawled from youtube
 
   -M&A outcomes: M&A transaction data ( Capital IQ - WRDS ), aggregated to firm–year.
 
