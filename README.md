@@ -16,7 +16,7 @@ The narcissism is calculated by using the word count in the CEO interview as pro
   $$SRR_ = \frac{\text{First-Person Singular}}{\text{First-Person Singular} + \text{First-Person Plural}}$$
 
 ## Methodology:
-a panel dataset having narcissism proxies (normalized SRR), M&A “empire building” outcomes, firm financial controls, and CEO characteristics for regression analysis.
+a panel dataset having narcissism proxies (normalized SRR), M&A “empire building” outcomes, firm financial controls, and CEO characteristics for regression analysis. We also use log for variables to reduce skewness of the data.
 
 - TobinQ : growth opportunity, high growth opportunities firms are more potential to expand their size and do more deals.
 - EBIT_Margin: Profitable firms (high EBITDA margin) have stronger internal funds for deals
