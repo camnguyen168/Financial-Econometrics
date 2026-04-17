@@ -55,7 +55,7 @@ where
 - SRR is statistical significant and positive associated with the acquisition activity next year
 
 
-In the regression, we also find that some control factor are significantly with firm acquisition
+In the regression, we also find that some control factor are significantly associated with firm acquisition.
 Three variables emerge as highly significant predictors:
 1. Organizational Scale: Lagged total assets (log_at_lag) confirms that a firm’s existing balance sheet capacity is the strongest anchor for future deal size or large firm are about to conduct more merge and aquisition 
 2. Operating Efficiency: The EBIT_Margin shows a robust positive association. This suggests that highly profitable firms leverage their superior cash-flow generation to execute larger-scale acquisitions.
