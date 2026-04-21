@@ -47,7 +47,7 @@ where
 ## Result:
 
 
-- According to our model transaction next year, we find a positive relationship between the level of CEO narcisism (SRR normalized mean and median) and the transaction size (significant at level 5%). The significance hold under 5% in single regression, muliple regression and also when putting fix effect to control for time invariant variables or when remove 0.1% outlier in the data
+- According to our model transaction next year regression, we find a positive relationship between the level of CEO narcisism (SRR normalized mean and median) and the transaction size (significant at level 5%). The significance hold under 5% in single regression, muliple regression and also when putting fix effect to control for time invariant variables or when remove 0.1% outlier in the data
 
 
 - The model same year regression and next 2 year regression show the relationship between SRR and transaction size is not significant
